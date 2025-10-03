@@ -1,8 +1,8 @@
-<h1>Hi, I'm Marco! <br/> <a href="www.linkedin.com/in/marco-posadas">Cybersecurity Professional</a>, <br> <a href="https://github.com/marcopsd-dev">Cloud & Network engineer</a>.
+<h1>Hi, I'm Marco! <br/> <a href="(https://linkedin.com/in/marco-posadas)">Cybersecurity Professional</a>, <br> <a href="https://github.com/marcopsd-dev">Cloud & Network engineer</a>.
 
 <h2>👨‍💻 Cybersecurity & Cloud Projects:</h2>
 <a href="https://www.github.com/marcopsd-dev/ActDrctLab"> Actvie Directory Home Lab </a>
-  - 
+  - This is a step to step turorial on how to sep up an Active Directroy lab in a cloud-based environment using MacOS, AWS, PowerShell, and the RDP protocol.
 
 <h2>📺 CERTIFICATIONS:</h2>
 <H3><a href="https://www.credly.com/badges/e9607fc6-10b9-4d05-affb-6f8bb02f5eb6/public_url">CompTIA Security+</a></H3>

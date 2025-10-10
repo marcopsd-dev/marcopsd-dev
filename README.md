@@ -1,10 +1,12 @@
-<h1>Hi! I'm Marco! <br/> <a href="(https://linkedin.com/in/marco-posadas)">Cybersecurity Professional</a>, <br> <a href="https://github.com/marcopsd-dev">Cloud & Network Junior engineer</a>.
+<h1>Hi! I'm Marco! <br/> <a href="https://linkedin.com/in/marco-posadas">Cybersecurity Professional</a>, <br> <a href="https://linkedin.com/in/marco-posadas">Cloud & Network Junior engineer</a>.
 
 <h2>👨‍💻 Cybersecurity & Cloud Projects:</h2>
 <a href="https://www.github.com/marcopsd-dev/ActDrctLab"> Active Directory Home Lab </a>
-  - This is a step to step turorial on how to sep up Active Directroy in a cloud-based environment to simulate a real enterprise network using AWS, PowerShell, MacOS, and the RDP protocol. (DOCUMENTATION IN PROGESS) <br>
+  - This is a step to step turorial on how to sep up Active Directroy, a domain server, DHCP, and NAT routing in a cloud-based environment to simulate a real enterprise network using AWS, PowerShell, MacOS, and the RDP protocol. (DOCUMENTATION IN PROGESS) <br>
 <a href="https://www.github.com/marcopsd-dev/ADTShooting"> Troubleshooting Active Directory Lab </a>
-  - This is a step by step tutorial on troubleshooting common Active Directory accounts issues in a corporate network environment using Active Directory, Windows 2019 server, MacOS, and a windows client using Parallel's Desktop. (FINAL WORK IN PROGRESS)
+  - This is a step by step guide on troubleshooting common Active Directory accounts issues in a corporate network environment using Active Directory, Windows 2019 server, MacOS, and a windows client using Parallel's Desktop. (FINAL WORK IN PROGRESS)<br>
+<a href="https://www.github.com/marcopsd-dev/CloudHP"> AWS Honeypot Lab </a>
+  - This is a step by step tutorial on how to create a honeypot in AWS. (WORK IN PROGRESS)
 
 <h2>📺 CERTIFICATIONS:</h2>
 <H3><a href="https://www.credly.com/badges/e9607fc6-10b9-4d05-affb-6f8bb02f5eb6/public_url">CompTIA Security+</a></H3>
@@ -17,23 +19,9 @@
 
 
 [<img align="left" alt="Marco-Posadas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="Marco-Posadas | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][linkedin]
 
 
 
 [linkedin]: https://linkedin.com/in/marco-posadas
-
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Gmail]: mailto:marco.am.posadas@gmail.com

@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity & Cloud Projects:</h2>
 <a href="https://www.github.com/marcopsd-dev/ActDrctLab"> Active Directory Home Lab </a>
-  - This is a step to step turorial on how to sep up Active Directroy in a cloud-based environment to simulate a real enterprise network environment using AWS, PowerShell, MacOS, and the RDP protocol.
+  - This is a step to step turorial on how to sep up Active Directroy in a cloud-based environment to simulate a real enterprise network environment using AWS, PowerShell, MacOS, and the RDP protocol. (DOCUMENTATION UNDER PROCESS)
 
 <h2>📺 CERTIFICATIONS:</h2>
 <H3><a href="https://www.credly.com/badges/e9607fc6-10b9-4d05-affb-6f8bb02f5eb6/public_url">CompTIA Security+</a></H3>

@@ -1,7 +1,7 @@
 <h1>Hi, I'm Marco! <br/> <a href="(https://linkedin.com/in/marco-posadas)">Cybersecurity Professional</a>, <br> <a href="https://github.com/marcopsd-dev">Cloud & Network engineer</a>.
 
 <h2>👨‍💻 Cybersecurity & Cloud Projects:</h2>
-<a href="https://www.github.com/marcopsd-dev/ActDrctLab"> Actvie Directory Home Lab </a>
+<a href="https://www.github.com/marcopsd-dev/ActDrctLab"> Active Directory Home Lab </a>
   - This is a step to step turorial on how to sep up Active Directroy in a cloud-based environment to simulate a real enterprise network environment using AWS, PowerShell, MacOS, and the RDP protocol.
 
 <h2>📺 CERTIFICATIONS:</h2>

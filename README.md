@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity & Cloud Projects:</h2>
 <a href="https://www.github.com/marcopsd-dev/ActDrctLab"> Active Directory Home Lab </a>
-  - This is a step to step turorial on how to sep up Active Directroy in a cloud-based environment to simulate a real enterprise network environment using AWS, PowerShell, MacOS, and the RDP protocol. (DOCUMENTATION IN PROGESS) <br>
+  - This is a step to step turorial on how to sep up Active Directroy in a cloud-based environment to simulate a real enterprise network using AWS, PowerShell, MacOS, and the RDP protocol. (DOCUMENTATION IN PROGESS) <br>
 <a href="https://www.github.com/marcopsd-dev/ADTShooting"> Troubleshooting Active Directory Lab </a>
   - This is a step by step tutorial on troubleshooting common Active Directory accounts issues in a corporate network environment using Active Directory, Windows 2019 server, MacOS, and a windows client using Parallel's Desktop. (FINAL WORK IN PROGRESS)
 

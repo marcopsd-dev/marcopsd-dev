@@ -12,6 +12,7 @@
 <H3><a href="https://www.credly.com/badges/e9607fc6-10b9-4d05-affb-6f8bb02f5eb6/public_url">CompTIA Security+</a></H3>
 <H3><a href="https://www.credly.com/badges/c75c7a43-52ef-4ac0-93a9-3908026395a9/public_url">CompTIA Network+</a></H3>
 <H3><a href="">AWS Certified Solutions Architect Associate (in progress)</a></H3>
+<H3><a href="">AWS Certified Developer Associate (in progress)</a></H3>
 <H3><a href="https://www.credly.com/badges/24951604-3a72-450b-9083-77777ea63ebd/public_url">IBM Software Engineering Essentials</a></H3>
 <H3><a href="https://www.coursera.org/account/accomplishments/verify/NQ3S18KRI2MF">IBM Introduction to Cloud Computing</a></H3>
 

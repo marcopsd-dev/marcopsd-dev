@@ -1,11 +1,13 @@
 <h1>Hi! I'm Marco! <br/> <a href="https://linkedin.com/in/marco-posadas">Cybersecurity Professional</a>, <br> <a href="https://linkedin.com/in/marco-posadas">Cloud & Network Junior engineer</a>.
 
 <h2>👨‍💻 Cybersecurity & Cloud Projects:</h2>
+<a href="https://www.github.com/marcopsd-dev/mt-cloud-pjt"> AWS Multi-tier Cloud Project </a>
+  - This project guides you on how to create and deploy a highly available, secure, and scalable multi-tier cloud architecture on AWS. This infrastructure can be adopted to host serverless applications, APIs, or microservices, and can be used in conjuction with multiple AWS services like S3, Amazon Polly, Amazon Translate, Amazon Comprehend, etc. (DOCUMENTATION IN PROGESS) <br><br>
 <a href="https://www.github.com/marcopsd-dev/ActDrctLab"> Active Directory Home Lab </a>
   - This is a step to step turorial on how to sep up Active Directroy, a domain server, DHCP, and NAT routing in a cloud-based environment to simulate a real enterprise network using AWS, PowerShell, MacOS, and the RDP protocol. (DOCUMENTATION IN PROGESS) <br>
-<a href="https://www.github.com/marcopsd-dev/ADTShooting"> Troubleshooting Active Directory Lab </a>
-  - This is a step by step guide on troubleshooting common Active Directory accounts issues in a corporate network environment using Active Directory, Windows 2019 server, MacOS, and a windows client using Parallel's Desktop. (FINAL WORK IN PROGRESS)<br>
-<a href="https://www.github.com/marcopsd-dev/CloudHP"> AWS Honeypot Lab </a>
+<!--<a href="https://www.github.com/marcopsd-dev/ADTShooting"> Troubleshooting Active Directory Lab </a>
+  - This is a step by step guide on troubleshooting common Active Directory accounts issues in a corporate network environment using Active Directory, Windows 2019 server, MacOS, and a windows client using Parallel's Desktop. (FINAL WORK IN PROGRESS)<br> --!> <br>
+<a href="https://www.github.com/marcopsd-dev/CloudHP"> AWS Honeypot Lab </a> 
   - This is a step by step tutorial on how to create a honeypot in AWS. (WORK IN PROGRESS)
 
 <h2>📺 CERTIFICATIONS:</h2>

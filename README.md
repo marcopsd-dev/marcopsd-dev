@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity & Cloud Projects:</h2>
 <a href="https://www.github.com/marcopsd-dev/mt-cloud-pjt"> AWS Multi-tier Cloud Infrastructure </a>
-  - This project guides you on how to create and deploy a highly available, secure, and scalable multi-tier cloud architecture on AWS. This infrastructure can be adopted to host serverless applications, APIs, or microservices, and can be used in conjuction with multiple AWS services like S3, Amazon Polly, Amazon Translate, Amazon Comprehend, etc. <br>(DOCUMENTATION IN PROGESS) <br><br>
+  - This project guides you on how to create and deploy a highly available, secure, and scalable multi-tier cloud architecture on AWS. This infrastructure can be adopted to host serverless applications, APIs, or microservices, and can be used in conjuction with multiple AWS services like S3, Amazon Polly, Amazon Translate, Amazon Comprehend, etc. <br>(FINAL DOCUMENTATION IN PROGESS) <br><br>
 <a href="https://www.github.com/marcopsd-dev/ActDrctLab"> AWS Active Directory Home Lab </a>
-  - This is a step to step turorial on how to sep up Active Directroy, a domain server, DHCP, and NAT routing in a cloud-based environment to simulate a real enterprise network using AWS, PowerShell, MacOS, and the RDP protocol. (FINAL DOCUMENTATION IN PROGESS) <br>
+  - This is a step to step turorial on how to sep up Active Directroy, a domain server, DHCP, and NAT routing in a cloud-based environment to simulate a real enterprise network using AWS, PowerShell, MacOS, and the RDP protocol. (DOCUMENTATION IN PROGESS) <br>
 <h3>UPCOMING PROJECTS</h3>
 <a href="https://www.github.com/marcopsd-dev/ADTShooting"> Active Directory Troubleshooting Lab </a>
   - This is a step by step guide on troubleshooting common Active Directory accounts issues in a corporate network environment using Active Directory, Windows 2019 server, MacOS, and AWS services. (WORK IN PROGRESS)<br><br>

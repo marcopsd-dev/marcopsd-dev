@@ -11,7 +11,11 @@
 <a href="https://www.github.com/marcopsd-dev/CloudHP"> Azure Honeypot Lab </a> 
   - This is a step by step tutorial on how to create a "honeypot" in Azure for vulnerability research, and incident response training.<br><br>
 <a href="https://github.com/marcopsd-dev/s3-mrap-crr">S3 MRAP with CRR</a>
-  - How to create global resilient block-storage backups in the cloud with multi-region access points with AWS S3 to achieve high availabilty for serverless applications, Saas applications, websites, ERP, financial systems, and more! 
+  - How to create global resilient block-storage backups in the cloud with multi-region access points with AWS S3 to achieve high availabilty for serverless applications, Saas applications, websites, ERP, financial systems, and more! <br><br>
+<a href="https://github.com/marcopsd-dev/aws-athena-dbq">AWS Athena DB Query</a>
+- Using the <a href="https://github.com/marcopsd-dev/s3-mrap-crr">S3 MRAP bucket</a> that we created in the previous project, we'll implement the AWS Athena service that allows us to query big amounts of unstructured or partially unstructure data without any administrative overhead, data modification, or data loading, for fast and cost-effective ad-hoc queries.<br><br>
+<a href="https://github.com/marcopsd-dev/aws-acct-sec">AWS Security</a>
+- This project will show you how to implement the best AWS security practices for large organizations, small enterprises, or indivuals looking to secure their AWS accounts. 
 
 <h2>📺 CERTIFICATIONS:</h2>
 <H3><a href="https://www.credly.com/badges/e9607fc6-10b9-4d05-affb-6f8bb02f5eb6/public_url">CompTIA Security+</a></H3>

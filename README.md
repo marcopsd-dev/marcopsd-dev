@@ -1,56 +1,92 @@
-<h1>Hi! I'm Marco! <br/> <a href="https://linkedin.com/in/marco-posadas">Cybersecurity Professional</a>, <br> <a href="https://linkedin.com/in/marco-posadas">Cloud & Network Junior engineer</a>.
+# Hi! I'm Marco! 👋
 
-<h2>👨‍💻 Cybersecurity & Cloud Projects:</h2>
+**[Cybersecurity Professional](https://linkedin.com/in/marco-posadas)**
+**[Cloud & Network Junior Engineer](https://linkedin.com/in/marco-posadas)**
 
-<a href="https://www.github.com/marcopsd-dev/mt-cloud-pjt">:cloud::computer: AWS Multi-tier Cloud Infrastructure: </a>
-  - This project guides you on how to create and deploy a highly available, secure, and scalable multi-tier cloud architecture on AWS. This infrastructure can be adopted to host serverless applications, APIs, or microservices, and can be used in conjuction with multiple AWS services like S3, Amazon Polly, Amazon Translate, Amazon Comprehend, etc. <br>(DOCUMENTATION IN PROGESS) <br><br>
+---
 
-<a href="https://www.github.com/marcopsd-dev/vm-vpc-scan"> :lock::shield: Azure's VPC Vulnerability Management Scan and Remediation (with Tenable): </a><br>
-  - Vulnerability and STIG complaince scan with tenable on an enterprise virtual private cloud's server, and powershell remediation. <br><br> 
+## 👨‍💻 Cybersecurity & Cloud Projects:
 
-<a href="https://www.github.com/marcopsd-dev/ad-home-lab">:cloud::computer: AWS Active Directory Home Lab: </a>
-  - This is a step to step turorial on how to sep up Active Directroy, a domain server, DHCP, and NAT routing in a cloud-based environment to simulate a real enterprise network using AWS, PowerShell, MacOS, and the RDP protocol. (DOCUMENTATION IN PROGESS) <br><br>
-  
-<a href="https://www.github.com/marcopsd-dev/thr-internet-exposed-dev"> :lock::shield: Azure's VM exposure to the internet (Threat Hunt Report): </a><br>
-  - A threat hunt report on findings from an Azure's virtual machine unintentionally exposed to the internet, and its remediation with the use of Microsoft Defender for Endpoints. <br><br>
-  
-<a href="https://www.github.com/marcopsd-dev/ azuki-ctf-th"> :lock::shield: Azuki Incident Report Threat Hunt: </a><br>
-  - A multi‑stage security incident involving credential compromise, lateral movement, data staging, credential dumping, and data exfiltration within its Azure virtual environment. <br>
+### :cloud::computer: [AWS Multi-tier Cloud Infrastructure](https://www.github.com/marcopsd-dev/mt-cloud-pjt)
 
-<h3>UPCOMING PROJECTS</h3>
+* This project guides you on how to create and deploy a highly available, secure, and scalable multi-tier cloud architecture on AWS. This infrastructure can be adopted to host serverless applications, APIs, or microservices, and can be used in conjunction with multiple AWS services like S3, Amazon Polly, Amazon Translate, Amazon Comprehend, etc.
+  *(DOCUMENTATION IN PROGRESS)*
 
-<!-- <a href="https://www.github.com/marcopsd-dev/ad-tshooting"> Active Directory Troubleshooting Lab </a>
-  - This is a step by step guide on troubleshooting common Active Directory accounts issues in a corporate network environment using Active Directory, Windows 2019 server, MacOS, and AWS services. (WORK IN PROGRESS)<br><br> --!>
-  
-<!--<a href="https://www.github.com/marcopsd-dev/az-cloud-hp"> Azure Honeypot Lab </a> 
-  - This is a step by step tutorial on how to create a "honeypot" in Azure for vulnerability research, and incident response training.<br><br>--!>
-  
-<a href="https://github.com/marcopsd-dev/s3-mrap-crr">:cloud::computer:S3 MRAP with CRR:</a><br>
-  - How to create global resilient block-storage backups in the cloud with multi-region access points with AWS S3 to achieve high availabilty for serverless applications, Saas applications, websites, ERP, financial systems, and more! <br><br>
-  
-<a href="https://github.com/marcopsd-dev/aws-athena-dbq">:cloud::computer: AWS Athena DB Query:</a><br>
-  - Using the <a href="https://github.com/marcopsd-dev/s3-mrap-crr">S3 MRAP bucket</a> that we created in the previous project, we'll implement the AWS Athena service that allows us to query big amounts of unstructured or partially unstructure data without any administrative overhead, data modification, or data loading, for fast and cost-effective ad-hoc queries.<br><br>
+---
 
-<!--<a href="https://github.com/marcopsd-dev/aws-acct-sec">:cloud::computer:AWS Security</a>
-- This project will show you how to implement the best AWS security practices for large organizations, small enterprises, or indivuals looking to secure their AWS accounts. --!>
+### :lock::shield: [Azure VPC Vulnerability Management Scan and Remediation (with Tenable)](https://www.github.com/marcopsd-dev/vm-vpc-scan)
 
-<h2>📺 CERTIFICATIONS:</h2>
-<H3><a href="https://www.credly.com/badges/e9607fc6-10b9-4d05-affb-6f8bb02f5eb6/public_url">CompTIA Security+</a></H3>
-<H3><a href="https://www.credly.com/badges/c75c7a43-52ef-4ac0-93a9-3908026395a9/public_url">CompTIA Network+</a></H3>
-<H3><a href="">AWS Certified Solutions Architect Associate (in progress)</a></H3>
-<H3><a href="">AWS Certified Developer Associate (in progress)</a></H3>
-<H3><a href="https://www.credly.com/badges/24951604-3a72-450b-9083-77777ea63ebd/public_url">IBM Software Engineering Essentials</a></H3>
-<H3><a href="https://www.coursera.org/account/accomplishments/verify/NQ3S18KRI2MF">IBM Introduction to Cloud Computing</a></H3>
+* Vulnerability and STIG compliance scan with Tenable on an enterprise virtual private cloud server, including PowerShell-based remediation.
 
-<h2> 🤳 Connect with me:</h2>
+---
 
+### :cloud::computer: [AWS Active Directory Home Lab](https://www.github.com/marcopsd-dev/ad-home-lab)
 
-[<img align="left" alt="Marco-Posadas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Marco-Posadas | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Gmail]
-[<img align="left" alt="Marco-Posadas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="Marco-Posadas | Indeed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/indeed.svg" />][Indeed]
+* Step-by-step tutorial on how to set up Active Directory, a domain controller, DHCP, and NAT routing in a cloud-based environment to simulate a real enterprise network using AWS, PowerShell, macOS, and the RDP protocol.
+  *(DOCUMENTATION IN PROGRESS)*
 
-[linkedin]: https://linkedin.com/in/marco-posadas
+---
+
+### :lock::shield: [Azure VM Exposure to the Internet (Threat Hunt Report)](https://www.github.com/marcopsd-dev/thr-internet-exposed-dev)
+
+* A threat hunt report detailing findings from an Azure virtual machine unintentionally exposed to the internet and its remediation using Microsoft Defender for Endpoint.
+
+---
+
+### :lock::shield: [Azuki Incident Report Threat Hunt](https://www.github.com/marcopsd-dev/azuki-ctf-th)
+
+* A multi-stage security incident involving credential compromise, lateral movement, data staging, credential dumping, and data exfiltration within an Azure virtual environment.
+
+---
+
+## 🚧 UPCOMING PROJECTS
+
+<!--
+### Active Directory Troubleshooting Lab
+- Step-by-step guide on troubleshooting common Active Directory account issues in a corporate environment using Active Directory, Windows Server 2019, macOS, and AWS services.
+-->
+
+<!--
+### Azure Honeypot Lab
+- Step-by-step tutorial on how to create a honeypot in Azure for vulnerability research and incident response training.
+-->
+
+### :cloud::computer: [S3 MRAP with CRR](https://github.com/marcopsd-dev/s3-mrap-crr)
+
+* How to create globally resilient block-storage backups using multi-region access points with AWS S3 to achieve high availability for serverless applications, SaaS applications, websites, ERP systems, financial systems, and more.
+
+---
+
+### :cloud::computer: [AWS Athena DB Query](https://github.com/marcopsd-dev/aws-athena-dbq)
+
+* Using the [S3 MRAP bucket](https://github.com/marcopsd-dev/s3-mrap-crr) created in the previous project, this project demonstrates how to implement AWS Athena to query large amounts of unstructured or partially structured data without administrative overhead, data modification, or data loading—enabling fast and cost-effective ad-hoc queries.
+
+---
+
+## 📺 CERTIFICATIONS:
+
+* **[CompTIA Security+](https://www.credly.com/badges/e9607fc6-10b9-4d05-affb-6f8bb02f5eb6/public_url)**
+* **[CompTIA Network+](https://www.credly.com/badges/c75c7a43-52ef-4ac0-93a9-3908026395a9/public_url)**
+* **AWS Certified Solutions Architect – Associate (in progress)**
+* **AWS Certified Developer – Associate (in progress)**
+* **[IBM Software Engineering Essentials](https://www.credly.com/badges/24951604-3a72-450b-9083-77777ea63ebd/public_url)**
+* **[IBM Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/verify/NQ3S18KRI2MF)**
+
+---
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="___________ | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][x]
+[<img align="left" alt="___________ | Indeed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/indeed.svg" />][indeed]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Gmail]
+
+[indeed]: https://profile.indeed.com/p/marcop-j14svkf
+[x]: https://x.com/Marcopsds
 [Gmail]: mailto:marco.am.posadas@gmail.com
-[Twitter]: https://x.com/Marcopsds
-[Indeed]: https://profile.indeed.com/p/marcop-j14svkf
+[linkedin]: https://linkedin.com/in/marco-posadas
+
+<!--
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+-->

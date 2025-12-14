@@ -1,7 +1,7 @@
 # Hi! I'm Marco! 👋
 
-**[Cybersecurity Professional](https://linkedin.com/in/marco-posadas)**
-**[Cloud & Network Junior Engineer](https://linkedin.com/in/marco-posadas)**
+**[Cybersecurity Professional &](https://linkedin.com/in/marco-posadas)**
+**[Junior Cloud Engineer](https://linkedin.com/in/marco-posadas)**
 
 ---
 

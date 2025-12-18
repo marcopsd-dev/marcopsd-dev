@@ -19,11 +19,14 @@
 * Vulnerability and STIG compliance scan with Tenable on an enterprise virtual private cloud server, including PowerShell-based remediation.
 
 ---
+### :lock::shield: [PowerShell DISA STIGs Complaince Scripts](https://github.com/marcopsd-dev/policy_complaince)
 
-### :cloud::computer: [AWS Active Directory Home Lab](https://www.github.com/marcopsd-dev/ad-home-lab)
+* PowerShell scripts created to remediate Windows 11 virtual machines complaince with DISA STIGs. 
+
+<!-- :cloud::computer: [AWS Active Directory Home Lab](https://www.github.com/marcopsd-dev/ad-home-lab)
 
 * Step-by-step tutorial on how to set up Active Directory, a domain controller, DHCP, and NAT routing in a cloud-based environment to simulate a real enterprise network using AWS, PowerShell, macOS, and the RDP protocol.
-  *(DOCUMENTATION IN PROGRESS)*
+  *(DOCUMENTATION IN PROGRESS)* /// -->
 
 ---
 

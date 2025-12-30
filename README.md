@@ -7,32 +7,28 @@
 
 ## 👨‍💻 Cybersecurity & Cloud Projects:
 
-### :cloud::computer: [AWS Multi-tier Cloud Infrastructure](https://www.github.com/marcopsd-dev/mt-cloud-pjt)
-
-* This project guides you on how to create and deploy a highly available, secure, and scalable multi-tier cloud architecture on AWS. This infrastructure can be adopted to host serverless applications, APIs, or microservices, and can be used in conjunction with multiple AWS services like S3, Amazon Polly, Amazon Translate, Amazon Comprehend, etc.
-  *(DOCUMENTATION IN PROGRESS)*
-
----
-
 ### :lock::shield: [Azure VPC Vulnerability Management Scan and Remediation (with Tenable)](https://www.github.com/marcopsd-dev/vm-vpc-scan)
 
 * Vulnerability and STIG compliance scan with Tenable on an enterprise virtual private cloud server, including PowerShell-based remediation.
 
 ---
+
+### :cloud::computer: [Secure Multi-Region S3 Architecture](https://github.com/marcopsd-dev/s3-mrap-crr)
+
+* How to create globally resilient block-storage backups using multi-region access points with AWS S3 to achieve high availability for serverless applications, SaaS applications, websites, ERP systems, financial systems, and more.
+
+---
+
 ### :lock::shield: [PowerShell DISA STIGs Complaince Scripts](https://github.com/marcopsd-dev/policy_complaince)
 
-* PowerShell scripts created to remediate Windows 11 virtual machines complaince with DISA STIGs. 
+* PowerShell scripts created to remediate Windows 11 virtual machines complaince with DISA STIGs.
+
 
 <!-- :cloud::computer: [AWS Active Directory Home Lab](https://www.github.com/marcopsd-dev/ad-home-lab)
 
 * Step-by-step tutorial on how to set up Active Directory, a domain controller, DHCP, and NAT routing in a cloud-based environment to simulate a real enterprise network using AWS, PowerShell, macOS, and the RDP protocol.
   *(DOCUMENTATION IN PROGRESS)* /// -->
 
----
-
-### :lock::shield: [Azure VM Exposure to the Internet (Threat Hunt Report)](https://www.github.com/marcopsd-dev/thr-internet-exposed-dev)
-
-* A threat hunt report detailing findings from an Azure virtual machine unintentionally exposed to the internet and its remediation using Microsoft Defender for Endpoint.
 
 ---
 
@@ -41,6 +37,18 @@
 * A multi-stage security incident involving credential compromise, lateral movement, data staging, credential dumping, and data exfiltration within an Azure virtual environment.
 
 ---
+
+### :cloud::computer: [AWS Multi-tier Cloud Infrastructure](https://www.github.com/marcopsd-dev/mt-cloud-pjt)
+
+* This project guides you on how to create and deploy a highly available, secure, and scalable multi-tier cloud architecture on AWS. This infrastructure can be adopted to host serverless applications, APIs, or microservices, and can be used in conjunction with multiple AWS services like S3, Amazon Polly, Amazon Translate, Amazon Comprehend, etc.
+  *(DOCUMENTATION IN PROGRESS)*
+  
+---
+
+### :lock::shield: [Azure VM Exposure to the Internet (Threat Hunt Report)](https://www.github.com/marcopsd-dev/thr-internet-exposed-dev)
+
+* A threat hunt report detailing findings from an Azure virtual machine unintentionally exposed to the internet and its remediation using Microsoft Defender for Endpoint. *(DOCUMENTATION IN PROGRESS)*
+
 
 ## 🚧 UPCOMING PROJECTS
 
@@ -54,9 +62,6 @@
 - Step-by-step tutorial on how to create a honeypot in Azure for vulnerability research and incident response training.
 -->
 
-### :cloud::computer: [S3 MRAP with CRR](https://github.com/marcopsd-dev/s3-mrap-crr)
-
-* How to create globally resilient block-storage backups using multi-region access points with AWS S3 to achieve high availability for serverless applications, SaaS applications, websites, ERP systems, financial systems, and more.
 
 ---
 

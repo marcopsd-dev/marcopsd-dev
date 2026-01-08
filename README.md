@@ -32,7 +32,7 @@
 
 ---
 
-### :lock::shield: [Azuki Incident Report Threat Hunt](https://www.github.com/marcopsd-dev/azuki-ctf-th)
+### :lock::shield: [Incident Report Threat Hunt](https://www.github.com/marcopsd-dev/azuki-ctf-th)
 
 * A multi-stage security incident involving credential compromise, lateral movement, data staging, credential dumping, and data exfiltration within an Azure virtual environment.
 
@@ -51,6 +51,11 @@
 
 
 ## 🚧 UPCOMING PROJECTS
+
+--- 
+
+### :robot::shield: [AI Agentic SOC Analyst](https://github.com/marcopsd-dev/AI_agentic_SOC_analyst)
+* AI Threat Hunt detection using OpenAI's ChatGPT API, Azure's Log Analytics Workspace, and Python.
 
 <!--
 ### Active Directory Troubleshooting Lab
@@ -75,6 +80,7 @@
 
 * **[CompTIA Security+](https://www.credly.com/badges/e9607fc6-10b9-4d05-affb-6f8bb02f5eb6/public_url)**
 * **[CompTIA Network+](https://www.credly.com/badges/c75c7a43-52ef-4ac0-93a9-3908026395a9/public_url)**
+* **CompTIA A+ (in progress)**
 * **AWS Certified Solutions Architect – Associate (in progress)**
 * **AWS Certified Developer – Associate (in progress)**
 * **[IBM Software Engineering Essentials](https://www.credly.com/badges/24951604-3a72-450b-9083-77777ea63ebd/public_url)**

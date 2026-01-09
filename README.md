@@ -19,7 +19,7 @@
 
 ---
 
-### :lock::shield: [PowerShell DISA STIGs Complaince Scripts](https://github.com/marcopsd-dev/policy_complaince)
+### :lock::shield: [PowerShell DISA STIGs Compliance Scripts](https://github.com/marcopsd-dev/policy_compliance)
 
 * PowerShell scripts created to remediate Windows 11 virtual machines complaince with DISA STIGs.
 

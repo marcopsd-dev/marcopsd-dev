@@ -23,11 +23,11 @@ Globally resilient storage architecture with enterprise security features includ
 **Tech Stack:** CloudFormation, S3, KMS, Macie, EventBridge, CloudTrail  
 **Use Cases:** Serverless apps, SaaS platforms, financial systems, compliance-heavy workloads
 
-#### [AWS Multi-Tier Cloud Infrastructure](https://github.com/marcopsd-dev/mt-cloud-pjt) | AWS
+<!--  #### [AWS Multi-Tier Cloud Infrastructure](https://github.com/marcopsd-dev/mt-cloud-pjt) | AWS
 Highly available, secure, and scalable multi-tier architecture designed for serverless applications, APIs, and microservices with integration capabilities for S3, Polly, Translate, and Comprehend.
 
 **Tech Stack:** AWS VPC, EC2, Load Balancers, Auto Scaling, IAM  
-**Status:** 🚧 Documentation in progress
+**Status:** 🚧 Documentation in progress -->
 
 ---
 
@@ -35,11 +35,11 @@ Highly available, secure, and scalable multi-tier architecture designed for serv
 *Intelligent tools that augment security operations*
 
 #### [AI Agentic SOC Analyst](https://github.com/marcopsd-dev/AI_agentic_SOC_analyst) | Python + Azure + OpenAI
-Autonomous threat hunting system that translates natural language queries into KQL searches against Azure Sentinel and Microsoft Defender logs, with AI-powered analysis using MITRE ATT&CK framework mapping.
+Agentic AI SOC threat hunter designed for Cloud environments, combining MITRE ATT&CK–aligned detection, log analytics for workspace, MDE, Sentinel, secure RBAC with MFA and session tokens, SQLite persistence, robust logging, system/app testing, and automated email notifications.
 
 **Tech Stack:** Python, OpenAI GPT-4, Azure Sentinel, KQL, MITRE ATT&CK API  
 **Impact:** Reduces threat hunt query time from hours to minutes through natural language interface  
-**Status:** 🚧 Adding professional GUI interface (Warne AI SOC Agent)
+**Status:** 🚧 Production-ready. Adding user-friendly GUI interface and extra security/compliance features.
 
 #### [Tenable VM Automation Platform](https://github.com/marcopsd-dev/vm-vpc-scan) | Python + APIs
 Automated vulnerability management workflow integrating Tenable scans with threat intelligence, risk prioritization, and remediation orchestration for enterprise VPC environments.

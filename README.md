@@ -22,6 +22,7 @@ Globally resilient storage architecture with enterprise security features includ
 
 **Tech Stack:** CloudFormation, S3, KMS, Macie, EventBridge, CloudTrail  
 **Use Cases:** Serverless apps, SaaS platforms, financial systems, compliance-heavy workloads
+**Status:** 🚧 Transforming JSON into Terraform 
 
 <!--  #### [AWS Multi-Tier Cloud Infrastructure](https://github.com/marcopsd-dev/mt-cloud-pjt) | AWS
 Highly available, secure, and scalable multi-tier architecture designed for serverless applications, APIs, and microservices with integration capabilities for S3, Polly, Translate, and Comprehend.

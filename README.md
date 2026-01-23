@@ -21,7 +21,7 @@ I bridge cloud infrastructure and security operations—designing enterprise-gra
 Globally resilient storage architecture with enterprise security features including Object Lock, KMS encryption, cross-region replication, Multi-Region Access Points, Amazon Macie monitoring, EventBridge alerting, and CloudTrail audit logging.
 
 **Tech Stack:** CloudFormation, S3, KMS, Macie, EventBridge, CloudTrail  
-**Use Cases:** Serverless apps, SaaS platforms, financial systems, compliance-heavy workloads
+**Use Cases:** Serverless apps, SaaS platforms, financial systems, compliance-heavy workloads <br>
 **Status:** 🚧 Transforming JSON into Terraform 
 
 <!--  #### [AWS Multi-Tier Cloud Infrastructure](https://github.com/marcopsd-dev/mt-cloud-pjt) | AWS

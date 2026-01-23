@@ -77,7 +77,7 @@ Automated compliance remediation scripts for hardening Windows 11 virtual machin
 Threat hunt report documenting findings and remediation of an Azure VM unintentionally exposed to the internet, analyzed using Microsoft Defender for Endpoint telemetry.
 
 **Tech Stack:** Microsoft Defender for Endpoint, Azure Security Center, KQL  
-**Status:** 🚧 Documentation in progress
+
 
 ---
 
